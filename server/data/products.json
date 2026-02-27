@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Монополия",
-    "category": "Экономические",
-    "description": "Классическая игра в недвижимость. Покупайте, продавайте и торгуйте.",
-    "price": 2500,
-    "stock": 15,
-    "rating": 4.7
+    "name": "string",
+    "category": "string",
+    "description": "string",
+    "price": 0,
+    "stock": 0,
+    "rating": 0
   },
   {
     "id": 2,
@@ -78,7 +78,7 @@
     "description": "Классическая стратегическая игра для двоих.",
     "price": 1500,
     "stock": 20,
-    "rating": 5.0
+    "rating": 5
   },
   {
     "id": 10,
@@ -106,6 +106,14 @@
     "price": 2800,
     "stock": 16,
     "rating": 4.6
+  },
+  {
+    "id": 13,
+    "name": "string",
+    "category": "string",
+    "description": "string",
+    "price": 0,
+    "stock": 0,
+    "rating": 0
   }
 ]
-  
